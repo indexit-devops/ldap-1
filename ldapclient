@@ -1,0 +1,1 @@
+authconfig --enableldap --enableldapauth --ldapserver=146.148.75.138 --ldapbasedn="dc=linuxautomations,dc=com" --enablemkhomedir --update
